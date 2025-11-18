@@ -1,0 +1,4 @@
+DATOS 1 - ARCHIVO DE EJEMPLO
+
+Este archivo demuestra try-with-resources.
+El cierre es automático y garantizado.
